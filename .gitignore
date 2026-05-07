@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output script
+daftar_akun_anggota.csv
+daftar_akun_anggota.xlsx
+
+# Data Excel (jangan push ke repo publik)
+data iuran warga.xlsx
+~$*.xlsx
+
+# Env (jika ada di root)
+.env
